@@ -4,3 +4,4 @@ sadasdasd
 lxh
 8426
 rockchip
+rk
